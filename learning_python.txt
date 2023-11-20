@@ -1,0 +1,9 @@
+In Python you can create variables and assign values to them.
+In Python you can perform mathematical operations like addition, subtraction, multiplication, and division.
+In Python you can use conditional statements like if, else, and elif to make decisions.
+In Python you can create loops using for and while to iterate over elements.
+In Python you can define and call functions to reuse code.
+In Python you can work with different data types, including strings, numbers, lists, and dictionaries.
+In Python you can import and use external modules to extend Python's functionality.
+In Python you can handle exceptions and errors using try and except blocks.
+In Python you can read and write files to store and retrieve data.
