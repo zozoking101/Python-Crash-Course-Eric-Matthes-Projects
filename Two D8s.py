@@ -18,8 +18,8 @@ from die import Die
 die1 = Die(8)
 die2 = Die(8)
 
-# Simulate rolling the dice 1000 times
-rolls = 1000
+# Simulate rolling the dice 1000000 times
+rolls = 1000000
 results = []
 for _ in range(rolls):
     result = die1.roll() + die2.roll()
