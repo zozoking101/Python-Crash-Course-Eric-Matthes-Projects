@@ -36,9 +36,9 @@ data = [{
     'marker': {
         'size': [frp / 10 for frp in frps],
         'color': frps,
-        'colorscale': 'Viridis',
+        'colorscale': 'Magma',
         'reversescale': True,
-        'colorbar': {'title': 'Magnitude'},
+        'colorbar': {'title': 'Intensity'},
     },
 }]
 
